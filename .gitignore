@@ -1,4 +1,13 @@
-/cmake-build-debug
-/CMakeLists.txt
-.idea/
+#/cmake-build-debug
+#/cmake-build-debug-coverage
+#CMakeLists.txt
+out
+# IntellijIdea files
+*.iml
+.idea
 
+# System files
+.DS_Store
+
+# Object files
+*.o
